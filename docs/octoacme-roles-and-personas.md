@@ -77,5 +77,21 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
-- Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+- Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.## Additional Personas and Roles
+
+### Delivery Manager
+Responsible for ensuring timely delivery of project milestones, managing execution risks, and coordinating across teams to resolve blockers and maintain project momentum.
+
+### Stakeholder Liaison
+Acts as the primary communication bridge between business stakeholders and project teams, ensuring alignment on expectations, priorities, and outcomes.
+
+### Technical Lead
+Oversees system architecture, enforces engineering best practices, ensures technical quality, reviews critical code, and supports developers in complex technical decisions.
+
+### Documentation Owner
+Maintains project and process documentation, ensures accuracy and consistency, and promotes knowledge sharing across teams to support transparency and onboarding.
+
+### Risk & Compliance Owner
+Identifies, monitors, and mitigates project risks, ensures adherence to governance and compliance requirements, and manages approval workflows for critical decisions.
+
 
