@@ -16,3 +16,4 @@ Quality assurance is built into every phase through code reviews, automated test
 - [Project Lifecycle](project-lifecycle.md)
 - [Roles and Responsibilities](roles-responsibilities.md)
 - [Communication Plan](communication-plan.md)
+  
